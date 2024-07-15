@@ -1,7 +1,11 @@
 package homework;
 
 import java.util.Objects;
-
+/*
+ * 需求：
+ * 		1.定义一个Star（明星），明星有自己的属性
+ * 		2.手动重写Star的toString和equals方法
+ */
 public class StarDemo {
 
 	public static void main(String[] args) {
