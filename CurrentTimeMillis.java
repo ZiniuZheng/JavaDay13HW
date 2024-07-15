@@ -1,5 +1,8 @@
 package homework;
-
+/*
+ * 需求：
+ * 		通过System类的currentTimeMillis()方法，计算出 输出100次我爱你所用的时间
+ */
 public class CurrentTimeMillis {
 
 	public static void main(String[] args) {
