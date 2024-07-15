@@ -1,7 +1,12 @@
 package homework;
 
 import java.util.Calendar;
-
+/*
+ * 需求：
+ * 		1.通过Calendar对象获取今天是多少年多少月多少日
+ * 		2.获取今天在一年中是第几周
+ * 		3.获取当前月份在一年中是第几个月
+ */
 public class CalendarDemo {
 
 	public static void main(String[] args) {
