@@ -3,7 +3,15 @@ package homework;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+/*
+ * 需求：
+ * 		1.将当前时间解析成 xxxx年xx月xx日 xx:xx:xx 这种格式显示
+ * 		2.已知一个字符串时间String date = "2000_02_29#####23-23-23";
+ * 			a.将字符串时间转换成一个Date对象
+ * 			b.通过对象获取出以上Date对象明天这个时候的毫秒值
+ * 			c.通过刚才获取的毫秒值获取出明天的Date对象
+ * 			d.将获取出的新的Date对象的时间以xxxx年xx月xx日 xx:xx:xx 这种格式显示出来
+ */
 public class SimpleDateFormatDemo {
 
 	public static void main(String[] args) throws ParseException {
