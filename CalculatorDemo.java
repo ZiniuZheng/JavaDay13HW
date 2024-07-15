@@ -4,7 +4,11 @@ import java.util.Scanner;
 import java.text.SimpleDateFormat;
 import java.text.ParseException;
 import java.util.Date;
-
+/*
+ * 需求：
+ * 		1.键盘录入一个日期字符串，格式为 xxxx-xx-xx，代表此人的出生日期
+ * 		2.利用此人出生日期到当前日期所经过的毫秒值计算出这个人活了多少天
+ */
 public class CalculatorDemo {
 
 	public static void main(String[] args) throws ParseException {
